@@ -16,12 +16,12 @@
 
 <!-- Bio — Human, Not CV -->
 ```
-  Software engineer from Lahore, Pakistan.
+  Software engineer from Pakistan.
   I build mobile apps with Flutter, test systems with precision,
   and see the world through a camera lens when I'm not behind a screen.
 
   Currently: turning QA knowledge into real-world practice.
-  Always:    chasing cleaner code and better light.
+  Always chasing cleaner code and better light.
 ```
 
 <br/>
@@ -77,7 +77,7 @@
 &nbsp;&nbsp;&nbsp;— *Cross-platform grocery shopping app built with Flutter.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;📱 &nbsp;**[ClickMobile — Mobile Search Engine](https://github.com/Ibrahim0078/clickMobile-mobile-search-engine)**
-&nbsp;&nbsp;&nbsp;— *C++ mobile spec comparator — find the right phone, fast.*
+&nbsp;&nbsp;&nbsp;— *C++ mobile spec comparer — find the right phone, fast.*
 
 <br/>
 
@@ -118,12 +118,11 @@
 <!-- Fun Facts — Minimal, Human -->
 <div align="center">
 
-### ` Beyond The Code `
+### ` Beyond The Code. `
 
 </div>
 
 ```
-  🚗  Die-cast model car collector — design exists at every scale
   📷  Street & product photographer — @retakebyib
   ☕  Chai, not coffee
   🧩  I frame a shot the same way I write a test — deliberately
@@ -140,16 +139,10 @@
 
 ### ` Let's Connect `
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimshafiqnawaz/)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimshafiq48@gmail.com)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/retakebyib/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahim0078)
-
-<br/><br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ibrahim0078&color=d4a017&style=flat-square&label=profile+views)
 
 <br/>
 
